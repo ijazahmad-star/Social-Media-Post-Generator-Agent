@@ -9,3 +9,10 @@ wheels/
 # Virtual environments
 .venv
 .env 
+
+# credentials
+credentials.json
+token.pkl
+
+
+uv.lock
