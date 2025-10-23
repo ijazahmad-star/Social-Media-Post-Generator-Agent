@@ -31,8 +31,8 @@ project/
 ## Installation
 ### clone repo
 ```bash
-git clone https://github.com/yourusername/social-media-agent.git
-cd social-media-agent
+https://github.com/ijazahmad-star/Social-Media-Post-Generator-Agent.git
+cd Social-Media-Post-Generator-Agent
 ```
 
 ### Create Virtual Environment
