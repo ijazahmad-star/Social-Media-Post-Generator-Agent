@@ -23,7 +23,7 @@ This project uses an AI-driven multi-agent workflow to:
 project/
 │
 ├── agent.py         # Core logic (LangGraph + Gemini + Gmail)
-├── ui.py            # Beautiful Gradio UI frontend
+├── main.py            # Beautiful Gradio UI frontend
 ├── token.pkl        # Gmail OAuth credentials (auto-generated) - use your own file
 ├── requirements.txt # Dependencies list
 └── README.md        # Project documentation
